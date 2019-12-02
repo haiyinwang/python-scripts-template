@@ -106,3 +106,6 @@ venv.bak/
 # environment variables
 .env*
 !.env.example
+
+# IDE
+.vscode
