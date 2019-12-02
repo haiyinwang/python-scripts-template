@@ -6,8 +6,10 @@ verify_ssl = true
 [packages]
 requests = "==2.20.0"
 numpy = "==1.17.4"
+python-dotenv = "==0.10.3"
 
 [dev-packages]
+yapf = "==0.29.0"
 
 [requires]
 python_version = "3.7"
