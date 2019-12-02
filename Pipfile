@@ -4,7 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-requests = "==2.7.0"
+requests = "==2.20.0"
 numpy = "==1.17.4"
 python-dotenv = "==0.10.3"
 
